@@ -1,0 +1,5 @@
+Django
+djangorestframework
+django-redis
+celery[redis]
+psycopg[binary]
